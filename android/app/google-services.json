@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818058549186",
+    "project_id": "exposys-registration-jhansi",
+    "storage_bucket": "exposys-registration-jhansi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818058549186:android:79243ce9e7af4d0e83a85b",
+        "android_client_info": {
+          "package_name": "com.example.exposys_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818058549186-8jbq3jk4dtjsupg09lumqvj7uv0sofp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exposys_registration",
+            "certificate_hash": "239fbfe4b494ca84437a92c0578230c425e16be1"
+          }
+        },
+        {
+          "client_id": "818058549186-ne9ftl0ed6c4mn5sdu2uga743odrsqig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyR3Bs0FbuItVE7JyelaFu_j49a_iDfrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818058549186-jnjh4svkhmkcukpff5b8rmff1hh9snhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
