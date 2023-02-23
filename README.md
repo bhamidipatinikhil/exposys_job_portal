@@ -3,8 +3,8 @@
 
  ## Here are the images of my Application...
 
-![]("showcase_images\1.jpeg")
-![]("showcase_images\2.jpeg")
-![]("showcase_images\3.jpeg")
-![]("showcase_images\4.jpeg")
+![]("www.github.com/bhamidipatinikhil/exposys_job_portal/1.jpeg")
+![]("www.github.com/bhamidipatinikhil/exposys_job_portal/2.jpeg")
+![]("www.github.com/bhamidipatinikhil/exposys_job_portal/3.jpeg")
+![]("www.github.com/bhamidipatinikhil/exposys_job_portal/4.jpeg")
 
