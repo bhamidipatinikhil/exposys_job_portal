@@ -2,9 +2,9 @@
  A Job Portal for applying for jobs
 
  ## Here are the images of my Application...
-
-![]("www.github.com/bhamidipatinikhil/exposys_job_portal/1.jpeg")
-![]("www.github.com/bhamidipatinikhil/exposys_job_portal/2.jpeg")
-![]("www.github.com/bhamidipatinikhil/exposys_job_portal/3.jpeg")
-![]("www.github.com/bhamidipatinikhil/exposys_job_portal/4.jpeg")
+as you can see
+![image 1]("https://raw.githubusercontent.com/bhamidipatinikhil/exposys_job_portal/main/showcase_images/1.jpeg")
+![]("www.github.com/bhamidipatinikhil/exposys_job_portal/tree/main/showcase_images/2.jpeg")
+![]("www.github.com/bhamidipatinikhil/exposys_job_portal/tree/main/showcase_images/3.jpeg")
+![]("www.github.com/bhamidipatinikhil/exposys_job_portal/tree/main/showcase_images/4.jpeg")
 
